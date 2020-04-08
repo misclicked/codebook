@@ -9,3 +9,4 @@ priority_queue 要清空
 精度誤差 sqrt(大大的東西) + EPS
 測試 %lld or %I64d
 喇分 random_suffle 隨機演算法
+用long long int記得要算MLE
